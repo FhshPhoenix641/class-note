@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: /images/heroLogl.png
 heroText: 進階程式設計筆記
 tagline: 程式設計好簡單(ㄆㄧˋ)
 actions:
