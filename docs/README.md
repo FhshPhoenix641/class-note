@@ -1,9 +1,9 @@
 ---
 home: true
-heroText: Vuepress 模板！
-tagline: 快速、簡便、容易運作！
+heroText: 進階程式設計筆記
+tagline: 程式設計好簡單(ㄆㄧˋ)
 actions:
-  - text: 快速上手
-    link: /blog/
+  - text: 去看筆記
+    link: /note/
     type: primary
 ---
